@@ -1,0 +1,67 @@
+[
+    {
+      "id": 0,
+      "countryName": "Canada",
+      "flag": "🇨🇦",
+      "ranking": "1",
+      "leader": "Justin Trudeau",
+      "capital": "Ottawa",
+      "population": "37.6 million",
+      "money": "1.74 trillion",
+      "currency": "CAD",
+      "language": "French and English",
+      "description": "Canada is a vast and rugged land. From north to south it spans more than half the Northern Hemisphere. From east to west it stretches almost 4,700 miles (7,560 kilometers) across six time zones. It is the second largest country in the world, but it has only one-half of one percent of the world's population."
+    },
+    {
+      "id": 1,
+      "countryName": "Japan",
+      "flag": "🇯🇵",
+      "ranking": "2",
+      "leader": "Naruhito",
+      "capital": "Tokyo",
+      "population": "126 million",
+      "money": "5.06 trillion",
+      "currency": "Yen",
+      "language": "Japanese",
+      "description": "Japan is an archipelago, or string of islands, on the eastern edge of Asia. There are four main islands: Hokkaido, Honshu, Shikoku, and Kyushu. ... Almost four-fifths of Japan is covered with mountains. The Japanese Alps run down the center of the largest island, Honshu."
+    },
+    {
+      "id": 2,
+      "countryName": "Germany",
+      "flag": "🇩🇪",
+      "ranking": "3",
+      "leader": "Frank-Walter Steinmeier",
+      "capital": "Berlin",
+      "population": "83.1 million",
+      "money": "3.86 trillion",
+      "currency": "Euro",
+      "language": "German Deutsch",
+      "description": "Germany is a country located in the heart of Western Europe. It is bordered by Denmark, Poland, Czechia, Austria, Switzerland, France, Luxembourg, Belgium, Netherlands, the North Sea, and the Baltic Sea. Germany has a strategic location on the North European Plain and along the entrance to the Baltic Sea."
+    },
+    {
+      "id": 3,
+      "countryName": "Switzerland",
+      "flag": "🇨🇭",
+      "ranking": "4",
+      "leader": "The Federal Council",
+      "capital": "None",
+      "population": "8.58 million",
+      "money": "731 billion",
+      "currency": "Swiss franc",
+      "language": "Swiss-German, French",
+      "description": "Switzerland is a small mountainous country located in central Europe. This landlocked country is about the size of New Jersey and is between France and Italy. ... The mountainous area in the south is sparsely populated. In the sport of curling, a stone is propelled toward a target."
+    },
+    {
+      "id": 4,
+      "countryName": "Australia",
+      "flag": "🇦🇺",
+      "ranking": "5",
+      "leader": "Scott Morrison",
+      "capital": "Canberra",
+      "population": "25.4 million",
+      "money": "1.40 trillion",
+      "currency": "AUD",
+      "language": "English",
+      "description": "Australia is an island continent and the world's sixth largest country (7,682,300 sq km). Lying between the Indian and Pacific oceans, the country is approximately 4,000 km from east to west and 3,200 km from north to south, with a coastline 36,735 km long. Canberra is Australia's capital city."
+    }
+  ]
